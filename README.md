@@ -7,7 +7,7 @@ Em uma entrevista, me perguntaram se eu conhecia o TAIGA, e senti a necessidade 
 
 Objetivos:
 =========
-Com base na ferramenta TAIGA (https://taiga.io/), e nas fontes disponibilizadas, explore suas funcionalidades, dentro do contexto Ágio, aplicado a Gestão de Projetos em uma Fábrica de Software, sabendo que o material será utilizado por pessoas com diversos 
+Com base na ferramenta TAIGA (https://taiga.io/), e nas fontes disponibilizadas, explorar as principais funcionalidades, dentro do contexto Ágio, aplicado a Gestão de Projetos em uma Fábrica de Software, sabendo que o material será utilizado por pessoas com diversos 
 perfis: júnior, pleno e sênior.
 
 Adicione imagens correspondentes em cada tema abordado.
